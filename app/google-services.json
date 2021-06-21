@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "432119646951",
+    "project_id": "samsung-pay-fake",
+    "storage_bucket": "samsung-pay-fake.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:432119646951:android:273c038d769f506264b042",
+        "android_client_info": {
+          "package_name": "com.samsung.sspayfake"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "432119646951-f9rivsjrkq5jpvte56l3s57ccfmef6ng.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQCQbXw5kXPe3fuvG-fG2sV7oVZ0CqMEM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "432119646951-f9rivsjrkq5jpvte56l3s57ccfmef6ng.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
